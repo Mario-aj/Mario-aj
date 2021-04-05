@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/marioalfredojo1" target="blank"><img src="https://img.shields.io/twitter/follow/marioalfredojo1?logo=twitter&style=for-the-badge" alt="marioalfredojo1" /></a> </p>
 
-- 🌱 I’m currently working at <a href='https://www.lets.events'>lets.event</a> as frontend developer.
+- 🌱 I’m currently working at <a href='https://www.87labs.com/'>87labs</a> as frontend developer.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mario-alfredo-jorge](https://github.com/Mario-alfredo-jorge)
 
