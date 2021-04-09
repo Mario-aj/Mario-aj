@@ -15,10 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/mario-alfredo-jorge" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/mario-alfredo-jorge" height="30" width="40" /></a>
 <a href="https://twitter.com/marioalfredojo1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="marioalfredojo1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mário-alfredo-jorge-0370b61b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mário-alfredo-jorge-0370b61b4/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/dashboard/home?workspace=90fc6613-004f-48b4-a481-7dbc1dce7fc6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="https://codesandbox.io/dashboard/home?workspace=90fc6613-004f-48b4-a481-7dbc1dce7fc6" height="30" width="40" /></a>
 <a href="https://fb.com/mario-alfredo-jorge" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mario-alfredo-jorge" height="30" width="40" /></a>
 <a href="https://instagram.com/mario_alfredo_jorge/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mario-alfredo-jorge" height="30" width="40" /></a>
 </p>
