@@ -13,6 +13,7 @@
 
 - 📫 How to reach me **jmario@87labs.com**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/marioalfredojo1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="marioalfredojo1" height="30" width="40" /></a>
@@ -27,3 +28,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mario-alfredo-jorge&show_icons=true&locale=en&layout=compact" alt="mario-alfredo-jorge" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mario-alfredo-jorge&" alt="mario-alfredo-jorge" /></p>
+- <noscript>a6233fc05d1c11814cbcb6eb6e38004c</noscript>
