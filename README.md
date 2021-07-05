@@ -28,4 +28,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mario-alfredo-jorge&show_icons=true&locale=en&layout=compact" alt="mario-alfredo-jorge" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mario-alfredo-jorge&" alt="mario-alfredo-jorge" /></p>
-- <noscript>a6233fc05d1c11814cbcb6eb6e38004c</noscript>
+<div style="display: none">a6233fc05d1c11814cbcb6eb6e38004c</div>
