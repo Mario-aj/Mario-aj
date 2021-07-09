@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Reactjs**
 
-- 📫 How to reach me **jmario@87labs.com**
+- 📫 How to reach me **jmario@87labs.com** **WhatsApp: +79522022130**
 
 
 <h3 align="left">Connect with me:</h3>
