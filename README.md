@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working at <a href='https://www.87labs.com/'>87labs</a> as frontend developer.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mario-aj](https://github.com/Mario-aj)
+- 👨‍💻 All of my projects are available [here](https://github.com/Mario-aj?tab=repositories)
 
 - 💬 Ask me about **Reactjs**
 
