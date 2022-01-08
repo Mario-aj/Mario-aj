@@ -4,11 +4,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mario-aj" alt="mario-aj" /></a> </p>
 
-- 🌱 I’m currently working at <a href='https://www.87labs.com/'>87labs</a> as frontend developer.
+- 🌱 I’m currently working as frontend developer.
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Mario-aj?tab=repositories)
 
-- 💬 Ask me about **Reactjs**
+- 💬 Ask me about **React.js** and **Tailwindcss**
 
 - 📫 How to reach me **mariojorge1997@mail.ru**,  **WhatsApp: +79623317132** or <a href="https://www.linkedin.com/in/m%C3%A1rio-alfredo-jorge-0370b61b4/">**linkedIn**</a>
 
