@@ -27,4 +27,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mario-aj&show_icons=true&locale=en&layout=compact" alt="mario-aj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mario-aj&" alt="mario-aj" /></p>
-<div display="none">a6233fc05d1c11814cbcb6eb6e38004c</div>
+<div display="hidden">a6233fc05d1c11814cbcb6eb6e38004c</div>
