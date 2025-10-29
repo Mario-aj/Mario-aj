@@ -1,24 +1,22 @@
 <h1 align="center">Hi 👋, I'm Mário Alfredo Jorge.</h1>
-<h3 align="center">A passionate frontend developer from Angola.</h3>
+<h3 align="center">A passionate Frontend Enginner from Angola.</h3>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mario-aj" alt="mario-aj" /></a> </p>
 
-- 🌱 I’m currently working as frontend developer.
+- 🌱 I’m currently working as Frontend Engineer at Planne.
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Mario-aj?tab=repositories)
 
-- 💬 Ask me about **React.js** and **Tailwindcss**
+- 💬 Ask me about **Frontend**, **Algorithms** and **Data Structures**
 
-- 📫 How to reach me **mariojorge1997@mail.ru**,  **WhatsApp: +244930260233** or <a href="https://www.linkedin.com/in/m%C3%A1rio-alfredo-jorge-0370b61b4/">**linkedIn**</a>
+- 📫 How to reach me **mariojorge1997@mail.ru**,  **Whatsapp: +244930260233** or <a href="https://www.linkedin.com/in/m%C3%A1rio-alfredo-jorge-0370b61b4/">**linkedIn**</a>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/marioalfredojo1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="marioalfredojo1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mário-alfredo-jorge-0370b61b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mário-alfredo-jorge-0370b61b4/" height="30" width="40" /></a>
 <a href="https://fb.com/mario-alfredo-jorge" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mario-alfredo-jorge" height="30" width="40" /></a>
-<a href="https://instagram.com/mario_alfredo_jorge/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mario-alfredo-jorge" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
