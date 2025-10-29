@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React.js** and **Tailwindcss**
 
-- 📫 How to reach me **mariojorge1997@mail.ru**,  **WhatsApp: +79623317132** or <a href="https://www.linkedin.com/in/m%C3%A1rio-alfredo-jorge-0370b61b4/">**linkedIn**</a>
+- 📫 How to reach me **mariojorge1997@mail.ru**,  **WhatsApp: +244930260233** or <a href="https://www.linkedin.com/in/m%C3%A1rio-alfredo-jorge-0370b61b4/">**linkedIn**</a>
 
 
 <h3 align="left">Connect with me:</h3>
